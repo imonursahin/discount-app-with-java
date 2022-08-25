@@ -5,9 +5,7 @@ public class User {
     String customerName;
     String cardType;
     int recordedTime;
-
     boolean isFirstOrder;
-
 
 
     public User(String customerName, String cardType, int recordedTime, boolean isFirstOrder) {
@@ -31,8 +29,6 @@ public class User {
     public boolean getIsFirstOrder() {
         return isFirstOrder;
     }
-
-
 
 
 }
