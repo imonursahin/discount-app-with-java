@@ -42,5 +42,9 @@ On a retail website, the following discounts apply:
 5. For every $200 on the bill, there would be a $ 5 discount (e.g. for $ 950, you get $ 20 as a discount).
 6. The percentage based discounts do not apply on phones.
 
+## UML Diagram (diagrams.net)
+
+![discount-app-uml](https://user-images.githubusercontent.com/31903339/186902426-f56b3c86-c9da-45c6-b2c3-29c19524614e.png)
+
 
 
